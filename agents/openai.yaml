@@ -1,0 +1,4 @@
+interface:
+  display_name: "MedTech Phase-Out"
+  short_description: "Plan regulated MedTech product phase-outs"
+  default_prompt: "Use $medtech-phase-out to create an end-to-end phase-out plan for a medical device product."
