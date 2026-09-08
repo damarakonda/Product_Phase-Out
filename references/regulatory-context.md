@@ -36,3 +36,11 @@ Escalate to regulatory/quality/legal/clinical safety owners when:
 - FDA Section 506J discontinuance and manufacturing interruption guidance.
 - FDA postmarket management of cybersecurity in medical devices.
 - EU MDR/IVDR post-market surveillance and vigilance guidance, including MDCG PMSV materials.
+
+
+## Current-source checks added 2026-09-08
+
+- EU: explicitly assess MDR/IVDR Article 10a interruption or discontinuation of supply. Use the Commission's current Q&A, decision tree and manufacturer information form to determine applicability, recipients and timing; document the product/market facts and Regulatory Affairs conclusion. See [Commission Article 10a Q&A](https://health.ec.europa.eu/latest-updates/qa-obligation-inform-case-interruption-or-discontinuation-supply-2024-10-30_en) and [guidance index](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en). Retrieve the underlying current documents when applying them.
+- US: verify product codes and statutory conditions against the [FDA 506J Device List](https://www.fda.gov/medical-devices/medical-device-supply-chain-and-shortages/506j-device-list). Do not infer that every commercial discontinuance requires notification or that no notification is relevant outside a public health emergency; FDA also accepts voluntary notifications.
+
+Maintain an obligation register with jurisdiction, triggering facts, primary source and version, access date, applicability status, owner, deadline basis and review evidence. Recheck sources at use time; these links do not cover every jurisdiction or all obligations.

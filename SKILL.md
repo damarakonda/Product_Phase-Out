@@ -96,3 +96,15 @@ When the user asks for an end-to-end plan without specifying format, produce:
 - Read `references/regulatory-context.md` for regulatory, recall, field action, PMS/vigilance, discontinuance, supply interruption, or cybersecurity lifecycle questions.
 - Read `references/workflow-patterns.md` to build an end-to-end roadmap, governance plan, risk controls, or RACI.
 - Read `references/artifact-templates.md` when producing a phase-out charter, risk register, communication matrix, evidence binder, or executive-ready deliverable.
+
+## Execution and closure
+
+For end-to-end requests, read [execution-controls.md](references/execution-controls.md) and include decision gates, supply/service assumptions, a transition tracker, and continuing obligations in the deliverable package. For a narrow request, produce only the relevant artifacts.
+
+Start by reading supplied project records and identifying their revision and approval status. Maintain source links for facts; label unverified values as unknown. Do not invent dates, customer counts, approvals, regulatory determinations, or completed actions. A requested target date is not an approved commitment.
+
+Use one accountable function per milestone and distinguish proposed, ready for review, approved, executing, blocked, and complete. Complete means evidence exists, not merely that a due date has passed. Record approval authority, date, scope, and evidence reference when supplied; otherwise leave approval pending.
+
+When updating a plan, preserve stable record IDs, compare against the previous baseline, and explain changes to scope, dates, obligations, risks, and dependencies. Reassess affected gates when assumptions change. Planning does not authorize sending notices, submitting regulatory reports, placing orders, disabling systems, or retiring devices.
+
+Verify current primary regulatory sources for the affected markets before making a jurisdiction-specific determination. Capture applicability facts and Regulatory Affairs review; the reference file is a routing aid, not an exhaustive statement of current law.
